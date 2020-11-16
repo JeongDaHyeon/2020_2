@@ -1,3 +1,7 @@
+* 2020-11-11 : [Java 코딩 컨벤션 추가](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/CODING_CONVENTION.md)
+* 2020-11-13 : [Java 예제 파일 추가](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/Java/7569_%ED%86%A0%EB%A7%88%ED%86%A0/7569_BFS.java)
 * 2020-11-13 : [파일 이름 수정 요청](https://github.com/codedecks-in/LeetCode-Solutions/pull/140)
 * 2020-11-13 : [파일 이름 통일 관련하여 issue 작성](https://github.com/codedecks-in/LeetCode-Solutions/issues/142)
 * 2020-11-14 : [README.md 파일 한글 번역](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/README.md)
+* 2020-11-16 : [Coding Convetion 한글 번역](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/CODING_CONVENTION.md)
+* 2020-11-16 : [README.md 파일 수정](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/README.md)
