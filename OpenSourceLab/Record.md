@@ -7,3 +7,4 @@
 * 2020-11-16 : [README.md 파일 수정](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/blob/main/README.md)
 * 2020-11-17 : [Baekjoon Solutions에 PR 요청](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/1)
 * 2020-11-18 : [Baekjoon Solutions에 요청 받은 PR merge](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/2)
+* 2020-11-18 : [Baekjoon Solutions에 요청 받은 PR merge](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/3)
