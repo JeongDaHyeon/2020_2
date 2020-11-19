@@ -9,3 +9,5 @@
 * 2020-11-18 : [Baekjoon Solutions에 요청 받은 PR merge](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/2)
 * 2020-11-18 : [Baekjoon Solutions에 요청 받은 PR merge](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/3)
 * 2020-11-18 : [답변 받은 Issue close](https://github.com/codedecks-in/LeetCode-Solutions/issues/142)
+* 2020-11-20 : [Baekjoon_Solutions의 PR에 comment 작성 - 파일 수정 요청](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/6)
+* 2020-11-20 : [LeetCode_Solutions a, b, c로 시작하는 java 파일 수정하여 PR 요청](https://github.com/codedecks-in/LeetCode-Solutions/pull/144)
