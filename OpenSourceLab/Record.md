@@ -11,3 +11,4 @@
 * 2020-11-18 : [답변 받은 Issue close](https://github.com/codedecks-in/LeetCode-Solutions/issues/142)
 * 2020-11-20 : [Baekjoon_Solutions의 PR에 comment 작성 - 파일 수정 요청](https://github.com/Baekjoon-Solutions/Baekjoon_Solutions/pull/6)
 * 2020-11-20 : [LeetCode_Solutions a, b, c로 시작하는 java 파일 수정하여 PR 요청](https://github.com/codedecks-in/LeetCode-Solutions/pull/144)
+* 2020-11-26 : [LeetCode Solutions a로 시작하는 java 파일 rename 및 README.md 수정](https://github.com/codedecks-in/LeetCode-Solutions/pull/145)
